@@ -11,19 +11,19 @@
 <H3 align="center">Instagram Clone</h3>
 
   <p align="center">
-  An Instagram clone app.
+  An Instagram clone app by Ashish Jeswani
     <br />
-    <a href="https://instagram-clone-ec7xfmmbz-taleshrochaz-gmailcom.vercel.app/">View deploy</a>
+    <a href="">View deploy</a>
     ·
-    <a href="https://github.com/taleshrocha/instagram-clone/issues">Report Bug</a>
+    <a href="https://github.com/Ashish-1016/instagram-clone/issues">Report Bug</a>
     ·
-    <a href="https://github.com/taleshrocha/instagram-clone/issues">Request Feature</a>
+    <a href="https://github.com/Ashish-1016/instagram-clone/issues">Request Feature</a>
   </p>
 </div>
 
 # About The Project
 
-![](./images/front.png)
+
 
 This is a <a href="https://www.instagram.com">Instagram</a> clone platform with <a href="https://firebase.google.com/">Firebase</a> integration
 and <a href="https://next-auth.js.org/">NextAuth.js</a>.
@@ -48,7 +48,7 @@ To get a local copy up and running follow these simple example steps.
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/taleshrocha/instagram-clone.git
+   git clone https://github.com/Ashish-1016/Instagram-2.0.git
    ```
 2. Install npm packages
    ```sh
@@ -67,51 +67,19 @@ Run the application in localhost with
 npm run dev
 ```
 
-# Application
 
-## Responsive Design
-
-It has responsive design to allow a better experience to any user in any screen size. This was made easy by Tailwind breakpoints.
-
-![](./images/responsive.gif)
-
-## Add Posts
-
-It's possible to add Posts thanks to <a href="https://firebase.google.com/">Firebase</a>.
-
-![](./images/post.gif)
-
-## Add Comments
-
-It's possible to add comments to the Posts thanks to <a href="https://firebase.google.com/">Firebase</a>.
-
-![](./images/comment.gif)
-
-## Login
-
-You can login with your Google account thanks to <a href="https://next-auth.js.org/">NextAuth.js</a>.
-
-![](./images/login.gif)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-## License
-
-Distributed under the MIT License. See `LICENSE` for more information.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Acknowledgments
 
 This project was possible thanks to [Sonny Sangha](https://www.youtube.com/watch?v=6fNy0iD3hsk&t=1s) on YouTube.
 
 <div align="center">
-<a href="https://github.com/taleshrocha">
- <img style="border-radius: 50%;" src="https://github.com/taleshrocha.png" width="100px;" alt="Tales Rocha's profile photo"/>
+<a href="https://github.com/Ashish-1016">
+ <img style="border-radius: 50%;" src="https://github.com/Ashish-1016.png" width="100px;" alt=""/>
  <br />
- <sub><b>Tales Rocha</b></sub></a>
+ <sub><b>Ashish-1016</b></sub></a>
 
-Done with ❤️ by Tales Rocha 👋🏽 Contact me!
+Done with ❤️ by Ashish 👋🏽 Contact me!
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
