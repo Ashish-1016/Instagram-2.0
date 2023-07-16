@@ -1,3 +1,8 @@
+<h1>The App is Deployed live <a href='https://instagram-2-0-ph5omts6s-ashish-1016.vercel.app/'>here</a></h1>
+
+
+
+
 <a name="readme-top"></a>
 
 [![Stargazers][stars-shield]][stars-url]
